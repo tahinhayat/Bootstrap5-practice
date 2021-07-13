@@ -1,0 +1,23 @@
+.box{
+    min-height: 50px;
+    background-color: red;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.box2{
+    min-height: 60px;
+    background-color: teal;
+    color: white;
+    margin: 10px 0 50px;
+    text-align: center;
+}
+.mh-150{
+    min-height: 150px;
+    border: 1px solid darkcyan;
+    margin-bottom: 10px;
+}
+.mh-300{
+    min-height: 300px;
+    border: 1px solid tomato;
+}
